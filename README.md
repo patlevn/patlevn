@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋, I'm Khoa Le!</h2>
 
----
+
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  I am passionate about marketing and advertising. I have almost 3 years of experience in the field of marketing. And after realizing the necessity of data analysis, I have been pursuing the path of becoming a marketing analyst.
 
 
