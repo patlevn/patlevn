@@ -26,9 +26,9 @@
 ## Tableau Public
 Recently, I have researched on the US electric vehicle market so that I can help Toyota have an overview to have more specific strategies for the launch of products that are about to be launched.
 
-Here is the link for [Analysis To Launch Toyota's New Electric Car Models](https://public.tableau.com/views/AnalysisToLaunchToyotasNewElectricCarModels/ToyotaAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
+👉 Here is the link for [Analysis To Launch Toyota's New Electric Car Models](https://public.tableau.com/views/AnalysisToLaunchToyotasNewElectricCarModels/ToyotaAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-Here is my [Tableau Public](https://public.tableau.com/app/profile/khoa.le2492) 
+👉 Here is my [Tableau Public](https://public.tableau.com/app/profile/khoa.le2492) 
 
 
 
@@ -45,7 +45,7 @@ Here is my [Tableau Public](https://public.tableau.com/app/profile/khoa.le2492)
 
 
 
-# 📲<b>Explore me more!</b>
+# 📲 <b>Explore me more!</b>
   [<img  src="linkedin-icon-2.svg"  width="30"  height="30"  style="background-color:white;">][linkedin]
   &nbsp;
   [<img  src="tableau.svg" width="30" height="30"   style="background-color:white;">][tableau public]
