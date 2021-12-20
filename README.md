@@ -13,7 +13,7 @@
 
 ## Repositories
 
-[![Mobile App Research Survey](https://github-readme-stats.vercel.app/api/pin/?username=patlevn&repo=Mobile-App-Research-Survey&show_owner=true)](https://github.com/patlevn/Mobile-App-Research-Survey)
+
 
 [![World War Z Test-Adventure Game](https://github-readme-stats.vercel.app/api/pin/?username=patlevn&repo=World-War-Z---Text-Adventure-Game&show_owner=true)](https://github.com/patlevn/World-War-Z---Text-Adventure-Game)
 
@@ -21,7 +21,7 @@
 
 [![Predict data from Game of Thrones](https://github-readme-stats.vercel.app/api/pin/?username=patlevn&repo=Predict-data-from-Game-of-Thrones&show_owner=true)](https://github.com/patlevn/Predict-data-from-Game-of-Thrones)
 
-
+[![Mobile App Research Survey](https://github-readme-stats.vercel.app/api/pin/?username=patlevn&repo=Mobile-App-Research-Survey&show_owner=true)](https://github.com/patlevn/Mobile-App-Research-Survey)
 
 ## Tableau Public
 Recently, I have researched on the US electric vehicle market so that I can help Toyota have an overview to have more specific strategies for the launch of products that are about to be launched.
